@@ -1,0 +1,6 @@
+D:\пуп\hernya\hernya\bin\Debug\hernya.exe.config
+D:\пуп\hernya\hernya\bin\Debug\hernya.exe
+D:\пуп\hernya\hernya\bin\Debug\hernya.pdb
+D:\пуп\hernya\hernya\obj\Debug\hernya.csprojResolveAssemblyReference.cache
+D:\пуп\hernya\hernya\obj\Debug\hernya.exe
+D:\пуп\hernya\hernya\obj\Debug\hernya.pdb
